@@ -30,7 +30,8 @@ As a BS Electrical Engineering graduate from NUST, I combine strong engineering 
 
 ## 🌟 Am I Intelligent?
 #### Nope!!
-<img width="1920" height="1080" alt="Linkedin Banner" src="https://github.com/user-attachments/assets/ac43fdd8-79f3-46a7-b67b-21ff343bd5bf" />
+<img width="605" height="157" alt="image" src="https://github.com/user-attachments/assets/088ef50f-5ac3-462e-8dcd-4dc09b8c1fc8" />
+
 
 ## Certifications
 #### ❇️Advanced Machine Learning on Google Cloud Specialization
