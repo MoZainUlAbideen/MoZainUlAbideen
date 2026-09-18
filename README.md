@@ -28,6 +28,10 @@ As a BS Electrical Engineering graduate from NUST, I combine strong engineering 
 #### 🚗 Sensor-based Vehicle Classification using Machine Learning
 #### 📚 Retrieval-Augmented Generation Applications
 
+## 🌟 Am I Intelligent?
+#### Nope!!
+<img width="1920" height="1080" alt="Linkedin Banner" src="https://github.com/user-attachments/assets/ac43fdd8-79f3-46a7-b67b-21ff343bd5bf" />
+
 ## Certifications
 #### ❇️Advanced Machine Learning on Google Cloud Specialization
 https://www.coursera.org/account/accomplishments/specialization/8ZNO2FZQPFR5
