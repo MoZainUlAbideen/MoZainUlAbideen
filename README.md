@@ -27,14 +27,6 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 #### ⚡ Prompt Engineering
 #### 🚀 AI Deployment & Automation
 
-## 🌟 Featured Projects
-#### 🚀 GPU_Scout – Intelligent RAG-powered GPU recommendation assistant with persistent user memory
-#### 🤖 LLM-powered AI Agents
-#### 👁️ Parking Slot Detection System using Computer Vision
-#### 📈 E-Commerce Recommendation System
-#### 🚗 Sensor-based Vehicle Classification using Machine Learning
-#### 📚 Retrieval-Augmented Generation Applications
-
 ## 🌟 Am I Intelligent?
 ### Nope!!
 <img width="605" height="157" alt="image" src="https://github.com/user-attachments/assets/088ef50f-5ac3-462e-8dcd-4dc09b8c1fc8" />
