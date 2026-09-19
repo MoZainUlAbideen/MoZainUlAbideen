@@ -28,7 +28,6 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 #### 🚀 AI Deployment & Automation
 
 ## 🌟 Am I Intelligent?
-### Nope!!
 <img width="605" height="157" alt="image" src="https://github.com/user-attachments/assets/088ef50f-5ac3-462e-8dcd-4dc09b8c1fc8" />
 
 
