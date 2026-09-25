@@ -3,7 +3,7 @@
 ## AI Full Stack Engineer | Generative AI & LLM Developer
 
 # 💫 About Me:
-I'm an AI Engineer passionate about building intelligent systems that solve real-world problems through Machine Learning, Computer Vision, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). I enjoy taking AI projects from concept to deployment—whether that's training models, building scalable AI agents, or developing production-ready applications.
+I'm an AI Engineer passionate about building intelligent systems (end to end) that solve real-world problems through Machine Learning, Computer Vision, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). I enjoy taking AI projects from concept to deployment—whether that's training models, building scalable AI agents, or developing production-ready applications.
 
 
 ## 🌐 Socials:
