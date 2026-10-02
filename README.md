@@ -234,11 +234,11 @@ An edge AI sensor node that classifies passing vehicles as **LTV / HTV / No Vehi
 
 - Building production LLM applications end-to-end: RAG, agents, evaluation, backend and frontend, deployment
 
-### Machine Learning Intern — `RISETech, Islamabad`
-**Summer 2025**
+### Machine Learning Intern — **Summer 2025** — `RISETech, Islamabad`
 
-### AI/ML Intern — `Software Productivity Strategists (SPS), NSTP, Islamabad`
-**Summer 2024**
+
+### AI/ML Intern — **Summer 2024** — `Software Productivity Strategists (SPS), NSTP, Islamabad`
+
 
 ### Backend Developer — `Upwork`
 
