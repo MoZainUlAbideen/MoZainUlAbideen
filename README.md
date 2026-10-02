@@ -1,54 +1,362 @@
-# 👋 Hi, I'm Muhammad Zain-ul-Abideen
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-## AI Full Stack Engineer | Generative AI & LLM Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0A1A,50:3B1E7A,100:7C3AED&height=220&section=header&text=Muhammad%20Zain%20Ul%20Abideen&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%E2%80%A2%20RAG%20%26%20Agentic%20Systems%20%E2%80%A2%20Electrical%20Engineer&descAlignY=54&descAlignX=50&descSize=18" width="100%"/>
 
-# 💫 About Me:
-I'm an AI Full Stack Engineer passionate about building intelligent systems (end to end) that solve real-world problems through Machine Learning, Computer Vision, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). I enjoy taking AI projects from concept to deployment—whether that's training models, building scalable AI agents, or developing production-ready applications.
+<a href="https://github.com/MoZainUlAbideen">
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=C4B5FD&center=true&vCenter=true&width=820&height=70&lines=AI+Engineer+%E2%80%94+RAG+%26+Multi-Agent+Systems;Building+LLM+Copilots+with+Honest+Evals;Shipping+AI+for+Pakistan's+Real+Problems;Electrical+Engineer+turned+AI+Builder" alt="Typing SVG" />
+</a>
 
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/muhammad-zain-ul-abideen-nust) 
+<!-- Education -->
+<img src="https://img.shields.io/badge/B.E.%20Electrical%20Engineering-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/NUST%20(CEME)-3B1E7A?style=for-the-badge&logo=academia&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Islamabad%2C%20Pakistan-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=111827"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=plastic&logo=realm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=plastic&logo=fastlane&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=plastic&logo=travis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=plastic&logo=gitpod&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=plastic&logo=gitee&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white)
+<br/><br/>
 
-[![](https://komarev.com/ghpvc/?username=MoZainUlAbideen&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/>
+</a>
+<a href="mailto:YOUR-EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-3B1E7A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/>
+</a>
+<a href="https://m-zain-ul-abideen-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/3D%20Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/>
+</a>
+<a href="https://github.com/MoZainUlAbideen">
+<img src="https://img.shields.io/badge/GitHub-0B0A1A?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🚀 Expertise
-#### 🤖 Generative AI & Large Language Models (LLMs)
-#### 🧠 Retrieval-Augmented Generation (RAG)
-#### 🔗 LangChain, LangGraph & LlamaIndex
-#### 📚 Vector Databases (FAISS)
-#### 💬 AI Agents & Conversational AI
-#### 👁️ Computer Vision (OpenCV, MediaPipe, YOLO)
-#### 📊 Machine Learning & Deep Learning
-#### 🐍 Python Application Development
-#### ⚡ Prompt Engineering
-#### 🚀 AI Deployment & Automation
+<br/><br/>
 
-## 🌟 Am I Intelligent?
-<img width="605" height="157" alt="image" src="https://github.com/user-attachments/assets/088ef50f-5ac3-462e-8dcd-4dc09b8c1fc8" />
+<img src="https://komarev.com/ghpvc/?username=MoZainUlAbideen&label=Profile%20Views&color=7C3AED&style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/github/followers/MoZainUlAbideen?label=Followers&style=flat-square&color=3B1E7A&labelColor=111827"/>
 
+</div>
 
-## Certifications
-#### ❇️Advanced Machine Learning on Google Cloud Specialization
-https://www.coursera.org/account/accomplishments/specialization/8ZNO2FZQPFR5
-#### ❇️IBM Machine Learning
-https://www.coursera.org/account/accomplishments/specialization/6AF4NKP5SG0W
-#### ❇️Google AI Professional
-https://www.coursera.org/account/accomplishments/professional-cert/certificate/V00M6JVIR24O
-#### ❇️Google AI Essentials
-https://www.coursera.org/account/accomplishments/specialization/certificate/HFGV9W2AM02V
-#### ❇️Google Advanced Data Analytics
-https://www.coursera.org/account/accomplishments/specialization/2M7FIVKXPNCE
-#### ❇️Google Python for IT Automation
-https://www.coursera.org/account/accomplishments/specialization/R9CI60QZ4KBR
-#### ❇️AWS Cloud Practitioner Essential
-https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7
+---
 
+<!-- ===================== ABOUT ===================== -->
+<div align="center"><h2>👨‍💻 About Me</h2></div>
 
+I'm **Zain**, an **AI Engineer** and Electrical Engineering graduate from **NUST (CEME)**. I build LLM systems end-to-end — from ingestion and retrieval to agents, evaluation, deployment and a polished frontend — and I care most about one thing: **proving the system actually works**. Every project I ship has real tests, an eval harness with honest metrics, and bugs that were diagnosed, not guessed at.
 
+- 🤖 **RAG & Agentic Systems** — multi-agent routing, cited answers, critic/drafter loops, layered conversational memory.
+- 📏 **Evaluation-First Engineering** — golden sets, deterministic + LLM-as-judge grading, regression tracking, CI eval gates.
+- 🇵🇰 **AI for Local Problems** — Urdu-first copilots built around Pakistan's power sector and NEPRA regulations.
+- 🚀 **Shipping to Production** — Dockerised backends on Render, frontends on Vercel, tracing with Langfuse, rate-limited live demos.
+- 📡 **Hardware + ML Roots** — ESP32 → Raspberry Pi sensor pipelines and ensemble ML for underground vehicle classification.
 
+> **Open To:** AI Engineer • LLM / GenAI Engineer • ML Engineer • Full-time & Remote Roles
 
+---
 
+<!-- ===================== TECH STACK ===================== -->
+<div align="center"><h2>🛠️ Tech Stack</h2></div>
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash&theme=dark"/>
+<img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white&labelColor=1a1b27"/>
+
+**LLMs, RAG & Agents**
+
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Llama%203.1-0467DF?style=flat-square&logo=meta&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/FAISS-0866FF?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/LLM--as--Judge%20Evals-7C3AED?style=flat-square&labelColor=1a1b27"/>
+
+**ML & Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=sklearn,opencv&theme=dark"/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1b27"/>
+
+**Deployment, Cloud & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,vercel,sqlite,git,github,vscode&theme=dark"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white&labelColor=1a1b27"/>
+
+**Embedded & Hardware**
+
+<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark"/>
+<img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white&labelColor=1a1b27"/>
+
+</div>
+
+---
+
+<!-- ===================== EXPERTISE ===================== -->
+<div align="center"><h2>🤖 AI / ML Expertise</h2></div>
+
+| Domain | Where I've Applied It |
+| :--- | :--- |
+| **Retrieval-Augmented Generation** | EdgarIQ (SEC filings, page-level citations), GPU Scout (FAISS + Ollama embeddings), role-filtered retrieval in Chroma |
+| **Multi-Agent Systems** | Two-stage keyword + LLM router over 5 expert agents; drafter/critic loop with numeric fact checking |
+| **LLM Evaluation** | Golden sets, deterministic + LLM-judge grading, regression tracking, HTML reports, CI eval gate |
+| **Vision / Document AI** | Gemini-powered electricity-bill photo extraction; vision agent for accessibility auditing; YOLOv8 crash detection |
+| **LLMOps** | Langfuse tracing, per-visitor rate limiting to protect free-tier quotas, policy-change watcher |
+| **Classical ML & Signal Processing** | Ensemble KNN/LDA/RF/SVM/Extra Trees on vibration, magnetic & acoustic features; CFAR & Pulse-Doppler radar in MATLAB |
+
+---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+<div align="center"><h2>🚀 Featured Projects</h2></div>
+
+<details open>
+<summary><b>⚡ Rehnuma (رہنما) — Electricity Bill Audit & Power Guide Copilot for Pakistan</b></summary>
+
+<br/>
+
+An Urdu-first AI copilot that reads Pakistani electricity bills (PESCO, IESCO), audits every charge against official slabs and levies, explains the bill in plain language, and answers questions about NEPRA policy and solar net metering.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Python, Groq, Gemini (vision), Docker, Render, Vercel, Langfuse, GitHub Actions |
+| **Scope** | Bill reconciliation engine, slab & levy calculator, photo extraction, NEPRA policy guide + router, usage forecast & solar outlook |
+| **Evaluation** | Ground-truth labels from real bills, synthetic bill generator, auditor eval, CI eval gate |
+| **Users** | Shaped by neighbourhood interviews — solar and non-solar households tested the Urdu summaries |
+| **Live** | [rehnuma-kappa.vercel.app](https://rehnuma-kappa.vercel.app) |
+| **Repository** | [MoZainUlAbideen/rehnuma](https://github.com/MoZainUlAbideen/rehnuma) |
+
+Typed Urdu by default with an English toggle, because most people just want someone to explain their bill. Next up: Urdu voice input and a WhatsApp channel.
+
+</details>
+
+<details>
+<summary><b>📈 EdgarIQ — Multimodal RAG Copilot over SEC Filings</b></summary>
+
+<br/>
+
+A grounded research assistant over SEC EDGAR 10-K / 10-Q / 8-K filings that answers multi-year financial questions with citations to the exact source pages.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Python, Ollama (`nomic-embed-text`), Groq, pytest, Vercel |
+| **Pipeline** | Live SEC ingestion → date-aware retrieval → drafter agent → critic agent → numeric checker |
+| **Evaluation** | Human-verified golden set; deterministic + LLM-judge grading; regression tracking; HTML report |
+| **Results** | Golden-set pass rate **29% → 86% → 100%** by fixing wrong-quarter retrieval, rate limits & encoding bugs · **89 tests passing** |
+| **Repository** | [MoZainUlAbideen/edgariq](https://github.com/MoZainUlAbideen/edgariq) |
+
+Found and fixed a critic/drafter context mismatch and a calendar-year false positive in the numeric checker — the kind of bugs you only see when you measure.
+
+</details>
+
+<details>
+<summary><b>♿ Parity — AI Web Accessibility (WCAG) Auditor & Fixer</b></summary>
+
+<br/>
+
+Crawls a website, finds WCAG accessibility issues, explains them in plain language and proposes fixes — combining a rule engine with a vision agent.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Python, axe-core, Gemini (vision agent), Render, Vercel |
+| **Pipeline** | Crawler → axe engine → vision agent → explanation & fix generation |
+| **Evaluation** | Labeled benchmark with a baseline eval |
+| **Live** | [parity-iota-puce.vercel.app](https://parity-iota-puce.vercel.app) |
+| **Repository** | [MoZainUlAbideen/parity](https://github.com/MoZainUlAbideen/parity) |
+
+</details>
+
+<details>
+<summary><b>🎮 GPU Scout — Multi-Agent RAG System for GPU Recommendations</b></summary>
+
+<br/>
+
+A conversational multi-agent system that recommends GPUs for gaming, AI workloads and professional use, rebuilt end-to-end from a broken prototype.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Python, FAISS, Ollama embeddings, Groq (Llama 3.1), SQLite, Streamlit |
+| **Architecture** | Two-stage keyword + LLM router → 5 expert agents (specs, gaming, AI, hardware, professional) |
+| **Memory** | Layered session memory + persistent SQLite memory |
+| **Evaluation** | 50-case grounded golden set, LLM-as-judge scoring, regression detection, styled HTML report |
+| **Repository** | [MoZainn/GPU_Scout_with_memory](https://github.com/MoZainn/GPU_Scout_with_memory) |
+
+</details>
+
+<details>
+<summary><b>📡 Multi-Sensor Underground Vehicle Classification (Final Year Project)</b></summary>
+
+<br/>
+
+An underground sensor node that classifies passing vehicles as **LTV / HTV / No Vehicle** from vibration, magnetic and acoustic signals.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | ESP32-S3, Raspberry Pi, Python, scikit-learn |
+| **Pipeline** | ESP32-S3 node streams over UART → Raspberry Pi feature extraction (9-D vectors) → ensemble classifier |
+| **Models** | KNN, LDA, Random Forest, SVM, Extra Trees |
+| **Results** | Accuracy improved from **71% → 99%** after outdoor data collection & feature engineering |
+| **Research** | Authored an IEEE-format paper on the feature-extraction method |
+| **Repository** | Final Year Project — available on request |
+
+</details>
+
+<br/>
+
+<div align="center"><b>📚 Additional Projects</b></div>
+
+| Project | Domain | Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **RAG Access Control** | Secure RAG | Streamlit, ChromaDB | Login-gated RAG with role-based authorization at the retrieval layer — part of [Production-RAG](https://github.com/MoZainUlAbideen/Production-RAG) |
+| **Car Crash Detection** | Computer Vision | YOLOv8, OpenCV | Accident detection on video — [repo](https://github.com/MoZainn/Car-Crash-detection-using-yolov8) |
+| **3D Arena Portfolio** | Web / 3D | JavaScript | Rocket League-style interactive portfolio — [live](https://m-zain-ul-abideen-portfolio.vercel.app/) |
+| **Recommendation Backends** | Freelance (Upwork) | Python | Backends for an e-commerce and a movie recommendation system |
+| **Radar Signal Processing** | DSP | MATLAB | CA-CFAR, GO-CFAR detection and Pulse-Doppler processing |
+| **DSA in Python** | Algorithms | Python | Ongoing LeetCode practice — [DSA_Python](https://github.com/MoZainUlAbideen/DSA_Python) |
+
+---
+
+<!-- ===================== EXPERIENCE ===================== -->
+<div align="center"><h2>💼 Experience</h2></div>
+
+### AI Engineer
+**2026 – Present**
+
+- Building production LLM applications end-to-end: RAG, agents, evaluation and deployment
+
+### Machine Learning Intern — `RISETech`
+**Summer 2025**
+
+- Led feature extraction for a multi-sensor underground vehicle classifier
+- Ran outdoor data collection with the underground sensor node
+- Raised ensemble classification accuracy from **71% to 99%**
+
+### AI/ML Intern — `Software Productivity Strategists (SPS), NSTP`
+**Jun 2024 – Aug 2024**
+
+- <!-- add 1–2 bullets from your resume -->
+
+### Freelance Backend Developer — `Upwork`
+
+- Delivered backends for an e-commerce recommendation system and a movie recommendation system
+
+`Community:` **Collaborations Lead — WWF-Pakistan** (remote) · leading the collaborations team for environmental education initiatives
+
+---
+
+<!-- ===================== EDUCATION ===================== -->
+<div align="center"><h2>🎓 Education</h2></div>
+
+| Institution | Qualification | Period |
+| :--- | :--- | :--- |
+| **NUST — College of Electrical & Mechanical Engineering (CEME)** | Bachelor of Electrical Engineering | Graduated June 2026 |
+
+> Relevant coursework: Computer Vision, Radar Systems, Digital Signal Processing, Embedded Systems, Machine Learning.
+
+---
+
+<!-- ===================== CERTIFICATIONS ===================== -->
+<div align="center"><h2>📜 Certifications</h2></div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20ML%20on%20Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Google%20AI%20Professional-34A853?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/IBM%20AI%20Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1a1b27"/>
+
+<img src="https://img.shields.io/badge/IBM%20Machine%20Learning-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Google%20Advanced%20Data%20Analytics-EA4335?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Google%20AI%20Essentials-FBBC05?style=for-the-badge&logo=google&logoColor=black&labelColor=1a1b27"/>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+<div align="center"><h2>📊 GitHub Analytics</h2></div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoZainUlAbideen&show_icons=true&hide_border=true&bg_color=0B0A1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MoZainUlAbideen&hide_border=true&background=0B0A1A&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=7C3AED"/>
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoZainUlAbideen&layout=compact&hide_border=true&bg_color=0B0A1A&title_color=A78BFA&text_color=c9d1d9&langs_count=8"/>
+
+</div>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+<div align="center"><h2>🏅 GitHub Trophies</h2></div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MoZainUlAbideen&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
+<div align="center"><h2>📈 Contribution Activity</h2></div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoZainUlAbideen&bg_color=0B0A1A&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<div align="center"><h2>🐍 Contribution Snake</h2></div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MoZainUlAbideen/MoZainUlAbideen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+<div align="center"><h2>🎯 Current Focus</h2></div>
+
+```yaml
+zain:
+  building:   ["Rehnuma v2 — Urdu voice + WhatsApp", "Evaluation-first LLM copilots"]
+  learning:   ["Production LLMOps", "Google Cloud ML", "Agent reliability"]
+  practicing: ["DSA in Python", "System design for AI apps"]
+  open_to:    ["AI Engineer", "LLM / GenAI Engineer", "ML Engineer"]
+```
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+<div align="center"><h2>🤝 Connect</h2></div>
+
+<div align="center">
+
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
+<a href="https://m-zain-ul-abideen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27"/></a>
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+<i>"If you can't measure it, you can't trust it — building AI that proves it works."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0A1A,50:3B1E7A,100:7C3AED&height=120&section=footer" width="100%"/>
+
+</div>
