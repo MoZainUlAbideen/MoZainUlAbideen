@@ -234,21 +234,13 @@ An edge AI sensor node that classifies passing vehicles as **LTV / HTV / No Vehi
 
 - Building production LLM applications end-to-end: RAG, agents, evaluation, backend and frontend, deployment
 
-### Machine Learning Intern — `RISETech`
+### Machine Learning Intern — `RISETech, Islamabad`
 **Summer 2025**
 
-- Led feature extraction for a multi-sensor underground vehicle classifier
-- Ran outdoor data collection with the underground sensor node
-- Raised ensemble classification accuracy from **71% to 99%**
+### AI/ML Intern — `Software Productivity Strategists (SPS), NSTP, Islamabad`
+**Summer 2024**
 
-### AI/ML Intern — `Software Productivity Strategists (SPS), NSTP`
-**Jun 2024 – Aug 2024**
-
-- AI/ML internship at the National Science & Technology Park (NSTP), NUST Islamabad
-
-### Freelance Backend Developer — `Upwork`
-
-- Delivered backends for an e-commerce recommendation system and a movie recommendation system
+### Backend Developer — `Upwork`
 
 `Community:` **Collaborations Lead — WWF-Pakistan** (remote) · leading the collaborations team for environmental education initiatives
 
@@ -260,8 +252,8 @@ An edge AI sensor node that classifies passing vehicles as **LTV / HTV / No Vehi
 | Institution | Qualification | Period |
 | :--- | :--- | :--- |
 | **NUST — College of Electrical & Mechanical Engineering (CEME)** | Bachelor of Electrical Engineering | Graduated June 2026 |
+| **The City School** | Junior High/Intermediate/Middle School Education | 2009 - 2021 |
 
-> Relevant coursework: Computer Vision, Radar Systems, Digital Signal Processing, Embedded Systems, Machine Learning.
 
 ---
 
