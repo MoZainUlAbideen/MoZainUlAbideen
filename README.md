@@ -238,7 +238,7 @@ An edge AI sensor node that classifies passing vehicles as **LTV / HTV / No Vehi
 
 ### Backend Developer — `Upwork`
 
-### `Community:` **Collaborations Lead — WWF-Pakistan** (remote) · leading the collaborations team for environmental education initiatives
+### `Community:` **Collaborations Team Lead — WWF-Pakistan** (remote) 
 
 ---
 
