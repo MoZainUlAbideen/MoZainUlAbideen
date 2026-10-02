@@ -15,8 +15,8 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-3B1E7A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/></a>
+<a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-nust/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/></a>
+<a href="https://rehnuma-kappa.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo%3A%20Rehnuma-3B1E7A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
 <a href="https://m-zain-ul-abideen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/3D%20Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
 
 <br/><br/>
@@ -241,6 +241,8 @@ An edge AI sensor node that classifies passing vehicles as **LTV / HTV / No Vehi
 ### AI/ML Intern — `Software Productivity Strategists (SPS), NSTP`
 **Jun 2024 – Aug 2024**
 
+- AI/ML internship at the National Science & Technology Park (NSTP), NUST Islamabad
+
 ### Freelance Backend Developer — `Upwork`
 
 - Delivered backends for an e-commerce recommendation system and a movie recommendation system
@@ -282,12 +284,8 @@ An edge AI sensor node that classifies passing vehicles as **LTV / HTV / No Vehi
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MoZainUlAbideen&show_icons=true&hide_border=true&bg_color=0B0A1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoZainUlAbideen&layout=compact&hide_border=true&bg_color=0B0A1A&title_color=A78BFA&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoZainUlAbideen&hide_border=true&background=0B0A1A&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=7C3AED"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=MoZainUlAbideen&hide_border=true&border_radius=10&background=0B0A1A&stroke=3B1E7A&ring=A78BFA&fire=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=A1A1AA"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoZainUlAbideen&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css,dockerfile&border_radius=10&bg_color=0B0A1A&title_color=C4B5FD&text_color=E5E7EB&langs_count=6"/>
 
 <br/><br/>
 
@@ -313,8 +311,7 @@ zain:
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
+<a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-nust/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
 <a href="https://m-zain-ul-abideen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27"/></a>
 
 <br/><br/>
