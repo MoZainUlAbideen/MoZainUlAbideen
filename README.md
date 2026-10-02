@@ -229,10 +229,6 @@ An edge AI sensor node that classifies passing vehicles as **LTV / HTV / No Vehi
 <!-- ===================== EXPERIENCE ===================== -->
 <div align="center"><h2>💼 Experience</h2></div>
 
-### AI Engineer
-**2026 – Present**
-
-- Building production LLM applications end-to-end: RAG, agents, evaluation, backend and frontend, deployment
 
 ### Machine Learning Intern — **Summer 2025** — `RISETech, Islamabad`
 
@@ -242,7 +238,7 @@ An edge AI sensor node that classifies passing vehicles as **LTV / HTV / No Vehi
 
 ### Backend Developer — `Upwork`
 
-`Community:` **Collaborations Lead — WWF-Pakistan** (remote) · leading the collaborations team for environmental education initiatives
+`Community:` ### **Collaborations Lead — WWF-Pakistan** (remote) · leading the collaborations team for environmental education initiatives
 
 ---
 
