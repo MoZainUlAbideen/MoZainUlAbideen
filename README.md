@@ -101,8 +101,8 @@ I'm **Zain**, an **AI Full Stack Engineer** and Electrical Engineering graduate 
 | **Classical ML & Signal Processing** | ███████░░░ Proficient | Ensemble KNN/LDA/RF/SVM/Extra Trees on sensor features (71% → 99%), IEEE-format paper; CFAR & Pulse-Doppler radar in MATLAB |
 | **Vision & Document AI** | ██████░░░░ Intermediate | Gemini-powered bill photo extraction (Rehnuma); vision agent for accessibility auditing (Parity) |
 | **LLMOps** | ██████░░░░ Intermediate | Langfuse tracing, CI eval gate, NEPRA policy-change watcher, free-tier quota protection |
-| **Embedded & Edge AI** | ██████░░░░ Intermediate | ESP32-S3 sensor node → UART → Raspberry Pi feature extraction and on-device classification |
 | **Computer Vision** | █████░░░░░ Intermediate | YOLOv8 crash detection, OpenCV parking-slot, gesture and face-blurring projects |
+| **Embedded & Edge AI** | ██████░░░░ Intermediate | ESP32-S3 sensor node → UART → Raspberry Pi feature extraction and on-device classification |
 
 ---
 
