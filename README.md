@@ -90,16 +90,19 @@ I'm **Zain**, an **AI Full Stack Engineer** and Electrical Engineering graduate 
 ---
 
 <!-- ===================== EXPERTISE ===================== -->
-<div align="center"><h2>🤖 AI / ML Expertise</h2></div>
+<div align="center"><h2>🧠 Expertise</h2></div>
 
-| Domain | Where I've Applied It |
-| :--- | :--- |
-| **Retrieval-Augmented Generation** | EdgarIQ (SEC filings, page-level citations), GPU Scout (FAISS + Ollama embeddings), role-filtered retrieval in Chroma |
-| **Multi-Agent Systems** | Two-stage keyword + LLM router over 5 expert agents; drafter/critic loop with numeric fact checking |
-| **LLM Evaluation** | Golden sets, deterministic + LLM-judge grading, regression tracking, HTML reports, CI eval gate |
-| **Vision / Document AI** | Gemini-powered electricity-bill photo extraction; vision agent for accessibility auditing; YOLOv8 crash detection |
-| **LLMOps** | Langfuse tracing, per-visitor rate limiting to protect free-tier quotas, policy-change watcher |
-| **Classical ML & Signal Processing** | Ensemble KNN/LDA/RF/SVM/Extra Trees on vibration, magnetic & acoustic features; CFAR & Pulse-Doppler radar in MATLAB |
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **Retrieval-Augmented Generation** | ████████░░ Advanced | EdgarIQ (page-level citations over SEC filings), GPU Scout (FAISS + Ollama), Rehnuma's NEPRA policy guide, role-filtered retrieval in Chroma |
+| **LLM Evaluation** | ████████░░ Advanced | Golden sets, deterministic + LLM-as-judge grading, regression tracking, HTML reports, CI eval gate — EdgarIQ pass rate 29% → 100% |
+| **Multi-Agent Systems** | ████████░░ Advanced | Two-stage keyword + LLM router over 5 expert agents; drafter/critic loop with numeric fact checking; Rehnuma's query router |
+| **Full Stack AI Delivery** | ███████░░░ Proficient | Python/FastAPI backends in Docker on Render, frontends on Vercel, per-visitor rate limiting on live demos |
+| **Classical ML & Signal Processing** | ███████░░░ Proficient | Ensemble KNN/LDA/RF/SVM/Extra Trees on sensor features (71% → 99%), IEEE-format paper; CFAR & Pulse-Doppler radar in MATLAB |
+| **Vision & Document AI** | ██████░░░░ Intermediate | Gemini-powered bill photo extraction (Rehnuma); vision agent for accessibility auditing (Parity) |
+| **LLMOps** | ██████░░░░ Intermediate | Langfuse tracing, CI eval gate, NEPRA policy-change watcher, free-tier quota protection |
+| **Embedded & Edge AI** | ██████░░░░ Intermediate | ESP32-S3 sensor node → UART → Raspberry Pi feature extraction and on-device classification |
+| **Computer Vision** | █████░░░░░ Intermediate | YOLOv8 crash detection, OpenCV parking-slot, gesture and face-blurring projects |
 
 ---
 
