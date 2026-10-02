@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0A1A"/>
+      <stop offset="55%" stop-color="#2A1660"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#DDD6FE"/>
+    </linearGradient>
+    <style>
+      .name { font: 800 64px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 1px; }
+      .role { font: 600 28px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 6px; }
+      .tag  { font: 400 18px 'Consolas', 'Courier New', monospace; letter-spacing: 1px; }
+      .fade1 { animation: in 1.0s ease-out; }
+      .fade2 { animation: in 1.6s ease-out; }
+      .fade3 { animation: in 2.2s ease-out; }
+      @keyframes in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      .wave1 { animation: drift 9s ease-in-out infinite alternate; }
+      .wave2 { animation: drift 13s ease-in-out infinite alternate-reverse; }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-60px); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- subtle grid dots -->
+  <g fill="#A78BFA" opacity="0.18">
+    <circle cx="90" cy="60" r="2"/><circle cx="160" cy="110" r="1.5"/><circle cx="1050" cy="50" r="2"/>
+    <circle cx="1120" cy="120" r="1.5"/><circle cx="980" cy="95" r="1.5"/><circle cx="230" cy="45" r="1.5"/>
+  </g>
+
+  <!-- waves -->
+  <path class="wave2" fill="#7C3AED" opacity="0.35"
+        d="M0 245 C 200 205, 400 285, 600 245 S 1000 205, 1260 245 L 1260 300 L 0 300 Z"/>
+  <path class="wave1" fill="#0B0A1A" opacity="0.85"
+        d="M0 265 C 220 235, 420 300, 640 268 S 1040 235, 1260 270 L 1260 300 L 0 300 Z"/>
+
+  <text class="name fade1" x="600" y="120" text-anchor="middle" fill="url(#name)">Muhammad Zain-ul-Abideen</text>
+  <text class="role fade2" x="600" y="168" text-anchor="middle" fill="#C4B5FD">AI FULL STACK ENGINEER</text>
+  <text class="tag fade3"  x="600" y="208" text-anchor="middle" fill="#A78BFA">RAG · Multi-Agent Systems · LLM Evals · Shipped to Production</text>
+</svg>
