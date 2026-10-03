@@ -233,7 +233,7 @@ An edge AI sensor node that classifies passing vehicles as **LTV / HTV / No Vehi
 ### Machine Learning Intern — **Summer 2025** — `RISETech, Islamabad`
 
 
-### AI/ML Intern — **Summer 2024** — `Software Productivity Strategists (SPS), NSTP, Islamabad`
+### AI Engineer Intern — **Summer 2024** — `Software Productivity Strategists (SPS), NSTP, Islamabad`
 
 
 ### Backend Developer — `Upwork`
