@@ -307,7 +307,7 @@ zain:
 
 <br/><br/>
 
-<i>"If you can't measure it, you can't trust it — building AI that proves it works."</i>
+<i>"If you can't measure it, you can't trust it — building AI that proves its work."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0A1A,50:3B1E7A,100:7C3AED&height=120&section=footer" width="100%"/>
 
