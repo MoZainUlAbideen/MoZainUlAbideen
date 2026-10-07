@@ -16,7 +16,6 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-nust/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/></a>
-<a href="https://rehnuma-kappa.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo%3A%20Rehnuma-3B1E7A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
 <a href="https://m-zain-ul-abideen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/3D%20Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
 
 <br/><br/>
@@ -26,6 +25,8 @@
 
 <a href="https://rehnuma-kappa.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo%3A%20Rehnuma-3B1E7A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
 <a href="parity-iota-puce.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo%3A%20Parity-3B1E7A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
+<a href="https://earshot-ten-pi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%3A%20Earshot-3B1E7A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
+<a href="https://edgar-iq-web.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%3A%20EdgarIQ-3B1E7A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
 </div>
 
 ---
