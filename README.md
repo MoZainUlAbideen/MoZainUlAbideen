@@ -24,6 +24,8 @@
 <img src="https://komarev.com/ghpvc/?username=MoZainUlAbideen&label=Profile%20Views&color=7C3AED&style=flat-square&labelColor=111827"/>
 <img src="https://img.shields.io/github/followers/MoZainUlAbideen?label=Followers&style=flat-square&color=3B1E7A&labelColor=111827"/>
 
+<a href="https://rehnuma-kappa.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo%3A%20Rehnuma-3B1E7A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
+<a href="parity-iota-puce.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo%3A%20Parity-3B1E7A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
 </div>
 
 ---
