@@ -38,6 +38,6 @@
         d="M0 265 C 220 235, 420 300, 640 268 S 1040 235, 1260 270 L 1260 300 L 0 300 Z"/>
 
   <text class="name fade1" x="600" y="120" text-anchor="middle" fill="url(#name)">Muhammad Zain-ul-Abideen</text>
-  <text class="role fade2" x="600" y="168" text-anchor="middle" fill="#C4B5FD">AI FULL STACK ENGINEER</text>
+  <text class="role fade2" x="600" y="168" text-anchor="middle" fill="#C4B5FD">AI ENGINEER</text>
   <text class="tag fade3"  x="600" y="208" text-anchor="middle" fill="#A78BFA">RAG · Multi-Agent Systems · LLM Evals · Shipped to Production</text>
 </svg>
