@@ -16,7 +16,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-nust/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/></a>
-<a href="https://m-zain-ul-abideen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/3D%20Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
+<a href="https://m-zainulabideen.vercel.app/"><img src="https://img.shields.io/badge/%20Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/></a>
 <a href="mailto:mu.zainulabideen@gmail.com"><img src="https://img.shields.io/badge/Email-3B1E7A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/></a>
 
 <br/><br/>
