@@ -7,6 +7,13 @@
 <a href="mailto:mu.zainulabideen@gmail.com"><img src="https://img.shields.io/badge/Email-23473A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=151313"/></a>
 <a href="https://m-zainulabideen.vercel.app/resume/Muhammad-Zain-ul-Abideen-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-23473A?style=for-the-badge&labelColor=151313"/></a>
 
+**Try them live:**
+<a href="https://earshot-ten-pi.vercel.app/"><img src="https://img.shields.io/badge/Earshot-151313?style=flat-square&logo=vercel&logoColor=6FDC9F"/></a>
+<a href="https://dehqan.vercel.app/"><img src="https://img.shields.io/badge/Dehqan-151313?style=flat-square&logo=vercel&logoColor=6FDC9F"/></a>
+<a href="https://rehnuma-kappa.vercel.app"><img src="https://img.shields.io/badge/Rehnuma-151313?style=flat-square&logo=vercel&logoColor=6FDC9F"/></a>
+<a href="https://parity-iota-puce.vercel.app"><img src="https://img.shields.io/badge/Parity-151313?style=flat-square&logo=vercel&logoColor=6FDC9F"/></a>
+<a href="https://edgar-iq-web.vercel.app/"><img src="https://img.shields.io/badge/EdgarIQ-151313?style=flat-square&logo=vercel&logoColor=6FDC9F"/></a>
+
 </div>
 
 ## Hi, I'm Zain 👋
@@ -19,41 +26,64 @@ Most of what I build is for problems I've seen around me in Pakistan: families w
 
 ---
 
+## At a glance
+
+| Project | What it does | Best result |
+| :--- | :--- | :--- |
+| **Earshot** | Answers questions about podcasts and plays the exact second each quote was said | Reranking raised top-5 search accuracy from **76% to 93%** |
+| **Dehqan** | Diagnoses crop disease from a leaf photo, and says "not sure" when it is | Real-farm accuracy raised from **12% to 62%** |
+| **Rehnuma** | Reads and re-checks Pakistani electricity bills in Urdu or English | **96%** of bill fields read correctly, with no invented numbers |
+| **Parity** | Checks whether a website works for people with disabilities | Vision-model precision raised from **80% to 100%** |
+| **EdgarIQ** | Answers financial questions from SEC filings with citations | Test pass rate from **29% to 100%** after fixing retrieval |
+| **Final-year project** | Classifies passing vehicles from underground sensors | Accuracy from **71% to 99%** through feature design |
+
+<sub>Every project has its own accuracy page with the test data and its limits.</sub>
+
+---
+
 ## What I've built
 
-### 🎙️ [Earshot](https://github.com/MoZainUlAbideen/Earshot): ask a podcast a question · [live](https://earshot-ten-pi.vercel.app/)
+### 🎙️ [Earshot](https://github.com/MoZainUlAbideen/Earshot): ask a podcast a question
 
-You ask a question across several podcasts and get a short answer where every quote links to the exact second it was said; one click plays the original audio. I compared keyword, semantic and reranked search on a test set I wrote, and a reranker raised top-5 accuracy from 76% to 93%. It was too slow for the free server, so the live site runs the faster version and says so. A plain-code checker matches every quote against the transcript, and if the model can't back up an answer, Earshot says it couldn't find one.
+You ask a question across several podcasts and get a short answer where every quote links to the exact second it was said; one click plays the original audio. I compared keyword, semantic and reranked search on a test set I wrote. The reranker was the most accurate but too slow for the free server, so the live site runs the faster version and says so. A plain-code checker matches every quote against the transcript, and if the model can't back up an answer, Earshot says it couldn't find one.
+
+**Under the hood:** Whisper transcripts with word-level timestamps · keyword and vector search in one Postgres database · a Postgres job queue for transcription · CI against a real pgvector database
 
 `Python` `Whisper` `PostgreSQL + pgvector` `FastAPI` `Next.js`
 
-### 🌾 [Dehqan](https://github.com/MoZainUlAbideen/Dehqan): a crop doctor that admits when it isn't sure · [live](https://dehqan.vercel.app/)
+### 🌾 [Dehqan](https://github.com/MoZainUlAbideen/Dehqan): a crop doctor that admits when it isn't sure
 
-A farmer sends a photo of a sick leaf and Dehqan names the likely disease, grades how bad it is, and suggests safe hours to spray from a live forecast, in Urdu or English, by text or voice. My first model looked great on lab photos but got only 12% right on real farm photos, so I rebuilt it on CLIP with field data and brought it to 62%. When it isn't confident, it says so and points the farmer to the local extension office instead of guessing, and it refuses every pesticide-dose question.
+A farmer sends a photo of a sick leaf and Dehqan names the likely disease, grades how bad it is, and suggests safe hours to spray from a live forecast, in Urdu or English, by text or voice. My first model looked great on lab photos but failed on real farm photos, so I rebuilt it on CLIP with field data. When it isn't confident, it says so and points the farmer to the local extension office, and it refuses every pesticide-dose question.
+
+**Under the hood:** a CLIP check that rejects photos that aren't leaves · a segmentation model that measures how much of the leaf is diseased · models converted to ONNX to fit a 512 MB free server, checked against the originals on 1,000 photos
 
 `Python` `PyTorch` `CLIP` `ONNX` `FastAPI` `Next.js`
 
-### ⚡ [Rehnuma](https://github.com/MoZainUlAbideen/rehnuma): an electricity bill assistant · [live](https://rehnuma-kappa.vercel.app)
+### ⚡ [Rehnuma](https://github.com/MoZainUlAbideen/rehnuma): an electricity bill assistant
 
-Reads a photo of a Pakistani electricity bill, re-checks every charge with its own calculator, and explains the bill in plain Urdu or English. The AI reads the bill and writes the explanation, but it never does the maths. It reads 96% of fields correctly on real bills and answers NEPRA regulation questions with the exact clause. Solar and non-solar households in Peshawar tested the Urdu summaries.
+Reads a photo of a Pakistani electricity bill, re-checks every charge with its own calculator, and explains the bill in plain Urdu or English. The AI reads the bill and writes the explanation, but it never does the maths. It also answers NEPRA regulation questions with the exact clause. Solar and non-solar households in Peshawar tested the Urdu summaries.
+
+**Under the hood:** a re-read loop when the numbers don't add up · Urdu questions rewritten into the regulations' English wording before search · evaluation checks that fail the build if a metric drops · Langfuse tracing with personal numbers masked
 
 `Python` `FastAPI` `Gemini` `Groq` `Next.js` `Langfuse`
 
-### ♿ [Parity](https://github.com/MoZainUlAbideen/Parity): a web accessibility auditor · [live](https://parity-iota-puce.vercel.app)
+### ♿ [Parity](https://github.com/MoZainUlAbideen/Parity): a web accessibility auditor
 
-Opens a website in a real browser and checks whether people with disabilities can use it, combining standard WCAG rules with a vision model that judges whether image descriptions make sense. The vision model kept flagging correct descriptions as wrong, so I added a consistency check that took its precision from 80% to 100%.
+Opens a website in a real browser and checks whether people with disabilities can use it, combining standard WCAG rules with a vision model that judges whether image descriptions make sense. The vision model kept flagging correct descriptions as wrong, so I added a consistency check that removed those false alarms.
+
+**Under the hood:** headless Chromium on desktop and mobile · a pixel-level contrast meter and a keyboard-navigation check · a job queue with rate limits and protection against malicious URLs
 
 `Python` `FastAPI` `Playwright` `axe-core` `Gemini`
 
-### 📈 [EdgarIQ](https://github.com/MoZainUlAbideen/Edgar_iq): questions over SEC filings · [live](https://edgar-iq-web.vercel.app/)
+### 📈 [EdgarIQ](https://github.com/MoZainUlAbideen/Edgar_iq): questions over SEC filings
 
-Answers multi-year financial questions from company filings with citations. Early on it kept quoting figures from the wrong quarter. I traced that back to the search step and fixed it, and its test pass rate went from 29% to 100%.
+Answers multi-year financial questions from company filings with citations. Early on it kept quoting figures from the wrong quarter; I traced that back to the search step and fixed it with date-aware retrieval.
 
 `Python` `Groq` `FastAPI` `RAG`
 
 ### 📡 [Underground vehicle classifier](https://github.com/MoZainUlAbideen/Underground_Vehicle_Detection_System-FYP-): final-year project
 
-A buried sensor node (ESP32-S3 and Raspberry Pi) that tells light vehicles, heavy vehicles and an empty road apart from vibration, magnetic and acoustic signals. I collected the data outdoors and designed the features, which took accuracy from 71% to 99%, and wrote the method up as an IEEE-format paper.
+A buried sensor node (ESP32-S3 and Raspberry Pi) that tells light vehicles, heavy vehicles and an empty road apart from vibration, magnetic and acoustic signals. I collected the data outdoors, designed the features and wrote the method up as an IEEE-format paper.
 
 `ESP32-S3` `Raspberry Pi` `Python` `scikit-learn`
 
