@@ -131,6 +131,22 @@ Also: Whisper, CLIP, Hugging Face, ONNX Runtime, pgvector, Gemini, Groq, Langfus
 </div>
 Wanted to put Opus to work, so I asked it to build me a Rocket League-style video game. It made me this cracker of a thing anyway: my purple desk-toy Mini 4WD rebuilt in 3D, a glass-domed stadium, a red bot that takes 90 second matches far too seriously, and, somewhere between the goals, my actual work behind glowing podiums. [source](https://github.com/MoZainUlAbideen/M-Zain-ul-Abideen-Portfolio)
 
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+<div align="center"><h2>📈 GitHub Analytics</h2></div>
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=MoZainUlAbideen&hide_border=true&border_radius=12&background=151313&stroke=23473A&ring=6FDC9F&fire=6FDC9F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6FDC9F&sideLabels=6FDC9F&dates=A8A29E"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoZainUlAbideen&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css,dockerfile&border_radius=12&bg_color=151313&title_color=6FDC9F&text_color=F3EFE9&langs_count=6"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/MoZainUlAbideen/MoZainUlAbideen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
 <br/>
 
 <img src="https://raw.githubusercontent.com/MoZainUlAbideen/MoZainUlAbideen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
