@@ -147,13 +147,10 @@ Wanted to put Opus to work, so I asked it to build me a Rocket League-style vide
 
 ---
 
-<br/>
+<p align="center">
+  <i>"If you can't measure it, you can't trust it. Building AI that proves its work."</i>
+</p>
 
-<img src="https://raw.githubusercontent.com/MoZainUlAbideen/MoZainUlAbideen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br/><br/>
-
-<i>"If you can't measure it, you can't trust it. Building AI that proves its work."</i>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151313,100:23473A&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:151313,100:23473A&height=100&section=footer" width="100%"/>
 </div>
