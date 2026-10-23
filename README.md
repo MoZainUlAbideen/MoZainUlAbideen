@@ -18,7 +18,7 @@
 
 ## Hi, I'm Zain 👋
 
-I'm an AI Engineer and a 2026 Electrical Engineering graduate from NUST in Islamabad. I build AI products from start to finish: the data and the model, the backend, and a frontend that people can actually use.
+An Electrical Engineer from NUST who pivoted into AI with a clear vision: to stay ahead of technological change, bridge the gap between traditional engineering and intelligent systems, and contribute to the AI revolution shaping the future of technology.
 
 Most of what I build is for problems I've seen around me in Pakistan: families who can't check their electricity bills, farmers guessing at crop diseases, people who hear a section of the Penal Code at a police station and have no way to read it. I test everything on real-world data before calling it done, and I write up what didn't work as well as what did.
 
