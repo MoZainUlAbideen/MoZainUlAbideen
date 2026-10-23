@@ -129,9 +129,11 @@ Also: Whisper, CLIP, Hugging Face, ONNX Runtime, pgvector, Gemini, Groq, Langfus
 
 <a href="https://m-zain-ul-abideen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/The Arena-23473A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=151313"/></a>
 </div>
-Wanted to put Opus to work, so I asked it to build me a Rocket League-style video game. It made me this cracker of a thing anyway: my purple desk-toy Mini 4WD rebuilt in 3D, a glass-domed stadium, a red bot that takes 90 second matches far too seriously, and, somewhere between the goals, my actual work behind glowing podiums. ([source](https://github.com/MoZainUlAbideen/M-Zain-ul-Abideen-Portfolio))
+Wanted to put Opus to work, so I asked it to build me a Rocket League-style video game. It made me this cracker of a thing anyway: my purple desk-toy Mini 4WD rebuilt in 3D, a glass-domed stadium, a red bot that takes 90 second matches far too seriously, and, somewhere between the goals, my actual work behind glowing podiums. [source](https://github.com/MoZainUlAbideen/M-Zain-ul-Abideen-Portfolio)
 
-<br/>
+<br/><br/>
+
+<i>"If you can't measure it, you can't trust it. Building AI that proves its work."</i>
 
 <img src="https://raw.githubusercontent.com/MoZainUlAbideen/MoZainUlAbideen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
