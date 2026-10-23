@@ -127,7 +127,7 @@ Also: Whisper, CLIP, Hugging Face, ONNX Runtime, pgvector, Gemini, Groq, Langfus
 
 ## Just for fun
 
-🎮 [**The Arena**](https://m-zain-ul-abideen-portfolio.vercel.app/): drive my toy car around a 3D Rocket League-style football arena and find my work on the podiums. Built from scratch with Three.js. ([source](https://github.com/MoZainUlAbideen/M-Zain-ul-Abideen-Portfolio))
+🎮 <a href="https://m-zain-ul-abideen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/The-Arena-151313?style=flat-square&logo=vercel&logoColor=6FDC9F"/></a>: drive my toy car around a 3D Rocket League-style football arena and find my work on the podiums. Built from scratch with Three.js. ([source](https://github.com/MoZainUlAbideen/M-Zain-ul-Abideen-Portfolio))
 
 <br/>
 
