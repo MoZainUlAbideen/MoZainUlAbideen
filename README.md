@@ -7,7 +7,7 @@
 <a href="mailto:mu.zainulabideen@gmail.com"><img src="https://img.shields.io/badge/Email-23473A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=151313"/></a>
 <a href="https://m-zainulabideen.vercel.app/resume/Muhammad-Zain-ul-Abideen-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-23473A?style=for-the-badge&labelColor=151313"/></a>
 
-**Try them live:**
+**My Work:**
 <a href="https://earshot-ten-pi.vercel.app/"><img src="https://img.shields.io/badge/Earshot-151313?style=flat-square&logo=vercel&logoColor=6FDC9F"/></a>
 <a href="https://dehqan.vercel.app/"><img src="https://img.shields.io/badge/Dehqan-151313?style=flat-square&logo=vercel&logoColor=6FDC9F"/></a>
 <a href="https://rehnuma-kappa.vercel.app"><img src="https://img.shields.io/badge/Rehnuma-151313?style=flat-square&logo=vercel&logoColor=6FDC9F"/></a>
