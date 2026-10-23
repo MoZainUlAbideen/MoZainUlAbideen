@@ -127,7 +127,8 @@ Also: Whisper, CLIP, Hugging Face, ONNX Runtime, pgvector, Gemini, Groq, Langfus
 
 ## Just for fun
 
-🎮 <a href="https://m-zain-ul-abideen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/The-Arena-151313?style=flat-square&logo=vercel&logoColor=6FDC9F"/></a>: drive my toy car around a 3D Rocket League-style football arena and find my work on the podiums. Built from scratch with Three.js. ([source](https://github.com/MoZainUlAbideen/M-Zain-ul-Abideen-Portfolio))
+🎮 <a href="https://m-zain-ul-abideen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/The Arena-151313?style=flat-square&logo=vercel&logoColor=6FDC9F"/></a>
+Wanted to put Opus to work, so I asked it to build me a Rocket League-style video game. It made me this cracker of a thing anyway: my purple desk-toy Mini 4WD rebuilt in 3D, a glass-domed stadium, a red bot that takes 90 second matches far too seriously, and, somewhere between the goals, my actual work behind glowing podiums. ([source](https://github.com/MoZainUlAbideen/M-Zain-ul-Abideen-Portfolio))
 
 <br/>
 
