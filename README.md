@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Muhammad Zain-ul-Abideen, AI Engineer"/>
+<img src="assets/header.svg" width="100%" alt="Muhammad Zain-ul-Abideen, Applied AI & LLM Systems"/>
 
 <a href="https://m-zainulabideen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-23473A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=151313"/></a>
 <a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-nust/"><img src="https://img.shields.io/badge/LinkedIn-23473A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=151313"/></a>
